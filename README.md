@@ -1,6 +1,6 @@
 # EVERSE Training
 
-A collection of training curated resources related to research software quality
+A collection of training curated resources related to research software quality.
 
 ## Licence
 
