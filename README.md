@@ -1,6 +1,9 @@
 # Training
 
-A collection of training curated resources related to research software quality collected as part of the EVERSE project.
+A collection of training resources related to research software quality and general software and data skills from different research domains and infrastructures collected as part of the EVERSE project.
+
+The [working spreadsheet](https://docs.google.com/spreadsheets/d/1Ufa4M024k2GeRzP9t64_P9uofXePyGRRf7LOF5vRWTg/edit?gid=395425751#gid=395425751) is used as a living document to constantly add and update training resources 
+and is then periodically released in this repository.
 
 ## Licence
 
