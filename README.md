@@ -22,7 +22,7 @@ the content of which is then periodically released in this repository.
 
 ## Training schools & events 
 
-[Collection](https://docs.google.com/spreadsheets/d/1Ufa4M024k2GeRzP9t64_P9uofXePyGRRf7LOF5vRWTg/edit?gid=1977539885#gid=1977539885) of individual training materials (such as a course, handbook, article, guide, tutorial) and curricula (set of several connected training courses, a learning pathway).
+[Collection](https://docs.google.com/spreadsheets/d/1Ufa4M024k2GeRzP9t64_P9uofXePyGRRf7LOF5vRWTg/edit?gid=1977539885#gid=1977539885) of training schools, programmes or events.
 
 ## Reports & publications
 
