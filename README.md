@@ -8,7 +8,7 @@ the content of which is then periodically released in this repository.
 ## Documents
 
 - Milestone report
-- [MArch 2025 GAM workshop spreadsheet](https://docs.google.com/spreadsheets/d/1Ufa4M024k2GeRzP9t64_P9uofXePyGRRf7LOF5vRWTg/edit?gid=1045877253#gid=1045877253) - based on the report above, we started currating trianing resources further
+- [March 2025 GAM workshop spreadsheet](https://docs.google.com/spreadsheets/d/1Ufa4M024k2GeRzP9t64_P9uofXePyGRRf7LOF5vRWTg/edit?gid=1045877253#gid=1045877253) - based on the report above, we started currating trianing resources further
 - [Current working spreadsheet](https://docs.google.com/spreadsheets/d/1Ufa4M024k2GeRzP9t64_P9uofXePyGRRf7LOF5vRWTg/edit?usp=sharing) - we are using this sheet for ongoing curration and collecting of training resources
 
 
