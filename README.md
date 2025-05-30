@@ -14,7 +14,7 @@ the content of which is then periodically released in this repository.
 
 ## Training repositories & registries
 
-[Collection](https://docs.google.com/spreadsheets/d/1Ufa4M024k2GeRzP9t64_P9uofXePyGRRf7LOF5vRWTg/edit?gid=395425751#gid=395425751) of training repositories (a training hub or a repository of training materials) and training registries (containing metadata and references to training materials).
+[Collection](https://docs.google.com/spreadsheets/d/1Ufa4M024k2GeRzP9t64_P9uofXePyGRRf7LOF5vRWTg/edit?gid=395425751#gid=395425751) of training repositories (training hubs or repositories of training materials) and training registries (containing metadata and references to training materials).
 
 ## Training materials & curricula
 
