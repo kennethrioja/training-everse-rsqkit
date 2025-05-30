@@ -5,6 +5,30 @@ A collection of training resources related to research software quality and gene
 The [working spreadsheet](https://docs.google.com/spreadsheets/d/1Ufa4M024k2GeRzP9t64_P9uofXePyGRRf7LOF5vRWTg/edit?gid=395425751#gid=395425751) is used as a living document to constantly add and update training resources 
 the content of which is then periodically released in this repository.
 
+## Documents
+
+- Milestone report
+- GAM spreadsheet
+- [Current working spreadsheet](https://docs.google.com/spreadsheets/d/1Ufa4M024k2GeRzP9t64_P9uofXePyGRRf7LOF5vRWTg/edit?usp=sharing)
+
+
+## Training repositories & registries
+
+[Collection](https://docs.google.com/spreadsheets/d/1Ufa4M024k2GeRzP9t64_P9uofXePyGRRf7LOF5vRWTg/edit?gid=395425751#gid=395425751) of training repositories (a training hub or a repository of training materials) and training registries (containing metadata and references to training materials).
+
+## Training materials & curricula
+
+
+## Training schools & events 
+
+
+## Reports & publications
+
+
+## Projects
+
+
+
 ## Licence
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
