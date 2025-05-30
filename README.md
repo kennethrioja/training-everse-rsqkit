@@ -26,6 +26,7 @@ the content of which is then periodically released in this repository.
 
 ## Reports & publications
 
+[Collection](https://docs.google.com/spreadsheets/d/1Ufa4M024k2GeRzP9t64_P9uofXePyGRRf7LOF5vRWTg/edit?gid=1803858001#gid=1803858001) of reports and publications.
 
 ## Projects
 
