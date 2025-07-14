@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Intermediate Research Software Development (Python)",
+    "url": "https://carpentries-incubator.github.io/python-intermediate-development/",
+    "description": "A core set of established, intermediate-level software development skills and best practices for working as part of a team in a research environment using Python as an example programming language.",
+    "keywords": "programming language, python, intermediate, software engineering, testing, debugging, version control, continuous integration, packaging code, releasing code, integrated development environment, IDE, virtual environment, git, github, good practices, action, CI/CD, automation, reproducible environment"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "The Turing\nWay’s “Guide for\nReproducible Research”, part of the The Turing Way: A handbook\nfor reproducible, ethical and collaborative research",
+    "url": "https://the-turing-way.netlify.app/reproducible-research/reproducible-research",
+    "description": "This guide covers topics related to skills, tools and best practices for research reproducibility.",
+    "keywords": "version control, git, licensing, reproducible environments, documentation, quality, testing, continuous integration, static code analysis"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Python Testing and Continuous Integration",
+    "url": "https://carpentries-incubator.github.io/python-testing/",
+    "description": "In this lesson we use a Python library called pytest. Basic understanding of Python variables and functions are a necessary prerequisite. Some previous experience with the shell is expected, but isn’t mandatory.",
+    "keywords": "python, pytest, testing, automation, continuous integration, CI/CD"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Automated Testing - Preventing Yourself and others from Breaking your Functioning Code",
+    "url": "https://coderefinery.github.io/testing/",
+    "description": "This lesson will talk about the places it’s useful for research code, and how easy it can be. We will discuss why testing often needs to be part of the software development cycle and how such a cycle can be implemented. We will see how automated testing works and practice designing and writing tests.",
+    "keywords": "testing, continuous integration, automation, python"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Make your code more robust",
+    "url": "https://gitlab.in2p3.fr/informatique-des-deux-infinis/pheniics/robust-programming",
+    "description": "Tools and methodologies to write code that is easier to understand and maintain.",
+    "keywords": "readable code, testing, documentation, continuous integration"
+  }
+]
