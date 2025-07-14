@@ -27,4 +27,14 @@ jobs:
     - name: Convert to json
       run: |
         python csv-to-json.py csv json
-
+    - name: Convert to json
+      run: |
+        python csv-to-json.py csv json
+    - name: Commit and Push Changes
+      run: |
+        git config --global user.name "${{ github.actor }}"
+        git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+        git checkout ${{ github.ref }}
+        git add .
+        git commit -m 'GitHub Actions: Update JSON'
+        git push
