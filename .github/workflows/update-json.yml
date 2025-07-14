@@ -3,7 +3,7 @@ name: Update JSON
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "test-ghaction" ]
   schedule:
     - cron: '0 1 * * *'
 
