@@ -1,0 +1,23 @@
+{
+  "Title": "name",
+  "URL": "url",
+  "Description": "description",
+  "Resource type(s)": "learningResourceType",
+  "Scientific Topics": "about",
+  "Keywords": "keywords",
+  "Licence": "license",
+  "Status": "creativeWorkStatus",
+  "DOI": "identifier",
+  "Version": "version",
+  "Authors": "author",
+  "Contributors": "contributor",
+  "Target audiences": "audience",
+  "Prerequisites": "competencyRequired",
+  "Competency level": "educationalLevel",
+  "Learning objectives": "teaches",
+  "Date created": "dateCreated",
+  "Date modified": "dateModified",
+  "Date published": "datePublished",
+  "Nodes": "provider",
+  "External resources": "mentions"
+}
