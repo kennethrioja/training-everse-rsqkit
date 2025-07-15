@@ -14,7 +14,7 @@ the content of which is then periodically released in this repository.
 
 ## Training repositories & registries
 
-Collection of [training repositories (training hubs or repositories of training materials) and training registries (containing metadata and references to training materials)](https://github.com/EVERSE-ResearchSoftware/training/blob/main/training_repositorues_and_registries).
+Collection of [training repositories (training hubs or repositories of training materials) and training registries (containing metadata and references to training materials)](https://github.com/EVERSE-ResearchSoftware/training/blob/main/training_repositories_and_registries.csv).
 
 ## Training materials & curricula
 
@@ -30,11 +30,11 @@ Collection of [reports and publications](https://github.com/EVERSE-ResearchSoftw
 
 ## Projects & working groups
 
-Collection of [projects and working groups](https://github.com/EVERSE-ResearchSoftware/training/blob/main/training_projects) with training component.
+Collection of [projects and working groups](https://github.com/EVERSE-ResearchSoftware/training/blob/main/training_projects.csv) with training component.
 
 ## Keywords
 
-Collection of [keywords](https://github.com/EVERSE-ResearchSoftware/training/blob/main/keywords.csv] used to describe and curate various training materials to facilitate searching and tagging in various catalogues.
+Collection of [keywords](https://github.com/EVERSE-ResearchSoftware/training/blob/main/keywords.csv) used to describe and curate various training materials to facilitate searching and tagging in various catalogues.
 
 ## Licence
 
