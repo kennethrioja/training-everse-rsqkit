@@ -30,7 +30,7 @@ Collection of [reports and publications](https://github.com/EVERSE-ResearchSoftw
 
 ## Projects & working groups
 
-Collection of [projects and working groups](https://github.com/EVERSE-ResearchSoftware/training/blob/main/training_projects.csv) with training component.
+Collection of [projects and working groups](https://github.com/EVERSE-ResearchSoftware/training/blob/main/projects.csv) with training component.
 
 ## Keywords
 
