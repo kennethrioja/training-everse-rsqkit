@@ -1,38 +1,38 @@
 # Training
 
-A collection of training resources related to research software quality and general software and data skills from different research domains and infrastructures collected as part of the EVERSE project (WP5).
+This repository contains curated collections of training resources (contained in various CSV files) related to research software quality and general software and data skills from different research domains and infrastructures collected as part of the EVERSE project (WP5).
 
-The [working spreadsheet](https://docs.google.com/spreadsheets/d/1Ufa4M024k2GeRzP9t64_P9uofXePyGRRf7LOF5vRWTg/edit?gid=395425751#gid=395425751) is used as a living document to constantly add and update training resources 
-the content of which is then periodically released in this repository.
+The [working spreadsheet](https://docs.google.com/spreadsheets/d/1Ufa4M024k2GeRzP9t64_P9uofXePyGRRf7LOF5vRWTg/edit?gid=395425751#gid=395425751) is used as a living document to constantly add and update training resources the content of which is then periodically released in this repository.
 
 ## Documents & deliverables
 
 - [MS15 milestone report "Mapping of the stocktake of training materials across the training initiatives in the research communities of WP4 and a first assessment on gaps to be filled"](https://certhgr.sharepoint.com/:b:/r/sites/INAB-CERTH-Bioinformatics/Shared%20Documents/General/04.Projects/EU-Projects/Funded-Running/EVERSE%20(HORIZON-INFRA-2023-EOSC-01-02)/Consortium/3.Deliverables%20and%20Milestones/final-submitted/WP5/MS15_WP5_Mapping%20of%20the%20stocktake%20of%20training%20materials%20across%20the%20training%20initiatives%20in%20the%20research%20communities%20of%20WP4%20and%20a%20first%20assessment%20on%20gaps%20to%20be%20filled.pdf?csf=1&web=1&e=RUGzm5 )
 - [March 2025 GAM workshop spreadsheet](https://docs.google.com/spreadsheets/d/1Ufa4M024k2GeRzP9t64_P9uofXePyGRRf7LOF5vRWTg/edit?gid=1045877253#gid=1045877253) - based on the MS15 report above, we started curating the collected training resources further and classifying them according to the reseach domain, resource type, and software quality dimension they address
-- [Working spreadsheet](https://docs.google.com/spreadsheets/d/1Ufa4M024k2GeRzP9t64_P9uofXePyGRRf7LOF5vRWTg/edit?usp=sharing) - we are using this spreadsheet for ongoing curration and collecting of training resources
+- [Working spreadsheet](https://docs.google.com/spreadsheets/d/1Ufa4M024k2GeRzP9t64_P9uofXePyGRRf7LOF5vRWTg/edit?usp=sharing) - we are using this spreadsheet for the ongoing curration and collecting of training resources which are then periodically transferred to this repository
 
+## Training resources
 
-## Training repositories & registries
+### Training repositories & registries
 
 Collection of [training repositories (training hubs or repositories of training materials) and training registries (containing metadata and references to training materials)](https://github.com/EVERSE-ResearchSoftware/training/blob/main/training_repositories_and_registries.csv).
 
-## Training materials & curricula
+### Training materials & curricula
 
 Collection of [individual training materials (such as a course, handbook, article, guide, tutorial) and curricula (set of several connected training courses, a learning pathway)](https://github.com/EVERSE-ResearchSoftware/training/blob/main/training_materials_and_curricula.csv).
 
-## Training schools & events 
+### Training schools & events 
 
 Collection of [training schools, programmes or events](https://github.com/EVERSE-ResearchSoftware/training/blob/main/training_schools_and_events.csv).
 
-## Reports & publications
+### Reports & publications
 
 Collection of [reports and publications](https://github.com/EVERSE-ResearchSoftware/training/blob/main/reports_and_publications.csv).
 
-## Projects & working groups
+### Projects & working groups
 
 Collection of [projects and working groups](https://github.com/EVERSE-ResearchSoftware/training/blob/main/projects.csv) with training component.
 
-## Keywords
+### Keywords
 
 Collection of [keywords](https://github.com/EVERSE-ResearchSoftware/training/blob/main/keywords.csv) used to describe and curate various training materials to facilitate searching and tagging in various catalogues.
 
