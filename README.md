@@ -5,7 +5,7 @@ A collection of training resources related to research software quality and gene
 The [working spreadsheet](https://docs.google.com/spreadsheets/d/1Ufa4M024k2GeRzP9t64_P9uofXePyGRRf7LOF5vRWTg/edit?gid=395425751#gid=395425751) is used as a living document to constantly add and update training resources 
 the content of which is then periodically released in this repository.
 
-## Documents
+## Documents & deliverables
 
 - [MS15 milestone report "Mapping of the stocktake of training materials across the training initiatives in the research communities of WP4 and a first assessment on gaps to be filled"](https://certhgr.sharepoint.com/:b:/r/sites/INAB-CERTH-Bioinformatics/Shared%20Documents/General/04.Projects/EU-Projects/Funded-Running/EVERSE%20(HORIZON-INFRA-2023-EOSC-01-02)/Consortium/3.Deliverables%20and%20Milestones/final-submitted/WP5/MS15_WP5_Mapping%20of%20the%20stocktake%20of%20training%20materials%20across%20the%20training%20initiatives%20in%20the%20research%20communities%20of%20WP4%20and%20a%20first%20assessment%20on%20gaps%20to%20be%20filled.pdf?csf=1&web=1&e=RUGzm5 )
 - [March 2025 GAM workshop spreadsheet](https://docs.google.com/spreadsheets/d/1Ufa4M024k2GeRzP9t64_P9uofXePyGRRf7LOF5vRWTg/edit?gid=1045877253#gid=1045877253) - based on the MS15 report above, we started curating the collected training resources further and classifying them according to the reseach domain, resource type, and software quality dimension they address
@@ -14,24 +14,27 @@ the content of which is then periodically released in this repository.
 
 ## Training repositories & registries
 
-[Collection](https://docs.google.com/spreadsheets/d/1Ufa4M024k2GeRzP9t64_P9uofXePyGRRf7LOF5vRWTg/edit?gid=395425751#gid=395425751) of training repositories (training hubs or repositories of training materials) and training registries (containing metadata and references to training materials).
+Collection of [training repositories (training hubs or repositories of training materials) and training registries (containing metadata and references to training materials)](https://github.com/EVERSE-ResearchSoftware/training/blob/main/training_repositorues_and_registries).
 
 ## Training materials & curricula
 
-[Collection](https://docs.google.com/spreadsheets/d/1Ufa4M024k2GeRzP9t64_P9uofXePyGRRf7LOF5vRWTg/edit?gid=448677882#gid=448677882) of individual training materials (such as a course, handbook, article, guide, tutorial) and curricula (set of several connected training courses, a learning pathway).
+Collection of [individual training materials (such as a course, handbook, article, guide, tutorial) and curricula (set of several connected training courses, a learning pathway)](https://github.com/EVERSE-ResearchSoftware/training/blob/main/training_materials_and_curricula.csv).
 
 ## Training schools & events 
 
-[Collection](https://docs.google.com/spreadsheets/d/1Ufa4M024k2GeRzP9t64_P9uofXePyGRRf7LOF5vRWTg/edit?gid=1977539885#gid=1977539885) of training schools, programmes or events.
+Collection of [training schools, programmes or events](https://github.com/EVERSE-ResearchSoftware/training/blob/main/training_schools_and_events.csv).
 
 ## Reports & publications
 
-Collection of [reports and publications](./Reports %26 publications.csv).
+Collection of [reports and publications](https://github.com/EVERSE-ResearchSoftware/training/blob/main/reports_and_publications.csv).
 
 ## Projects & working groups
 
-[Collection](https://docs.google.com/spreadsheets/d/1Ufa4M024k2GeRzP9t64_P9uofXePyGRRf7LOF5vRWTg/edit?gid=335696169#gid=335696169) of projects and working groups with training component.
+Collection of [projects and working groups](https://github.com/EVERSE-ResearchSoftware/training/blob/main/training_projects) with training component.
 
+## Keywords
+
+Collection of [keywords](https://github.com/EVERSE-ResearchSoftware/training/blob/main/keywords.csv] used to describe and curate various training materials to facilitate searching and tagging in various catalogues.
 
 ## Licence
 
