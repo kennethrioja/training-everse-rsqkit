@@ -1,0 +1,78 @@
+abstract: '<p><span lang="EN-GB"><span>The </span><span>WP5 in EVERSE aims to </span><span>align,
+  adapt, extend, and curate </span><span>R</span><span>esearch </span><span>S</span><span>oftware
+  quality training resources across research</span> <span>communities, building around
+  the R</span><span>esearch Software Quality Kit (</span><span>RSQKit</span><span>)</span><span>,
+  and to deliver a recognition framework for rewarding scientists and</span> <span>trainers
+  for their contributions to research software, adapting existing platforms aligned
+  to larger research</span> <span>attribution initiatives.</span> </span></p>
+
+  <p><span lang="EN-GB"><span>This dataset is a curated set of training resources
+  collected in collaborative workshops with different research communities and aligned
+  with best practices for research software&nbsp;</span></span></p>'
+authors:
+- affiliation: University of Manchester
+  family-names: Nenadic
+  given-names: Aleksandra
+  orcid: 0000-0002-2269-3894
+- family-names: Sufi
+  given-names: Shoaib
+  orcid: 0000-0001-6390-2616
+- family-names: Roiser
+  given-names: Stefan
+  orcid: 0000-0002-5600-8592
+- affiliation: The University of Manchester
+  family-names: Goble
+  given-names: Carole
+  orcid: 0000-0003-1219-2137
+- affiliation: OpenAIRE Non-Profit Civil Partnership
+  family-names: Stavropoulos
+  given-names: Tassos
+  orcid: 0009-0008-5715-228X
+- affiliation: CERN
+  family-names: Stewart
+  given-names: Graeme Andrew
+  orcid: 0000-0003-0182-7088
+- affiliation: University of Geneva
+  family-names: Rioja
+  given-names: Kenneth
+  orcid: 0000-0002-5177-0019
+- family-names: Bouhraoua
+  given-names: Kamel Eddine Adel
+  orcid: 0000-0001-9531-6339
+- affiliation: Institute of Biomembranes, Bioenergetics and Molecular Biotechnologies
+  family-names: Quaglia
+  given-names: Federica
+  orcid: 0000-0002-0341-4888
+- affiliation: LifeWatch ERIC
+  family-names: Parisi
+  given-names: Eleonora
+- affiliation: Carol I National Defence University
+  family-names: Anton
+  given-names: Mihail
+  orcid: 0000-0002-1733-0693
+- affiliation: Helmholtz-Zentrum Dresden-Rossendorf
+  family-names: Ghosh
+  given-names: Srobona
+- affiliation: "Universidad Polit\xE9cnica de Madrid"
+  family-names: Garijo
+  given-names: Daniel
+  orcid: 0000-0003-0454-7145
+- affiliation: Helmholtz-Zentrum Dresden-Rossendorf
+  family-names: Juckeland
+  given-names: Guido
+  orcid: 0000-0002-9935-4428
+cff-version: 1.2.0
+date-released: '2025-07-15'
+doi: 10.5281/zenodo.15924516
+keywords:
+- research software
+- training
+- curation
+- best practices
+- rsqkit
+license:
+- cc-by-4.0
+message: If you use this dataset, please cite it using the metadata from this file.
+title: Aligning EVERSE Training resources from research clusters to RSQKit within
+  EVERSE
+type: dataset
