@@ -1,69 +1,81 @@
-abstract: 'The WP5 in EVERSE aims to align, adapt, extend, and curate Research Software quality training resources across research communities, building around the Research Software Quality Kit (RSQKit), 
-and to deliver a recognition framework for rewarding scientists and trainers for their contributions to research software, adapting existing platforms aligned to larger research attribution initiatives.
-This dataset is a curated set of training resources collected in collaborative workshops with different research communities and aligned with best practices for research software.'
-authors:
-- affiliation: University of Manchester
-  family-names: Nenadic
-  given-names: Aleksandra
-  orcid: 0000-0002-2269-3894
-- family-names: Sufi
-  given-names: Shoaib
-  orcid: 0000-0001-6390-2616
-- family-names: Roiser
-  given-names: Stefan
-  orcid: 0000-0002-5600-8592
-- affiliation: The University of Manchester
-  family-names: Goble
-  given-names: Carole
-  orcid: 0000-0003-1219-2137
-- affiliation: OpenAIRE Non-Profit Civil Partnership
-  family-names: Stavropoulos
-  given-names: Tassos
-  orcid: 0009-0008-5715-228X
-- affiliation: CERN
-  family-names: Stewart
-  given-names: Graeme Andrew
-  orcid: 0000-0003-0182-7088
-- affiliation: University of Geneva
-  family-names: Rioja
-  given-names: Kenneth
-  orcid: 0000-0002-5177-0019
-- family-names: Bouhraoua
-  given-names: Kamel Eddine Adel
-  orcid: 0000-0001-9531-6339
-- affiliation: Institute of Biomembranes, Bioenergetics and Molecular Biotechnologies
-  family-names: Quaglia
-  given-names: Federica
-  orcid: 0000-0002-0341-4888
-- affiliation: LifeWatch ERIC
-  family-names: Parisi
-  given-names: Eleonora
-- affiliation: Carol I National Defence University
-  family-names: Anton
-  given-names: Mihail
-  orcid: 0000-0002-1733-0693
-- affiliation: Helmholtz-Zentrum Dresden-Rossendorf
-  family-names: Ghosh
-  given-names: Srobona
-- affiliation: "Universidad Polit\xE9cnica de Madrid"
-  family-names: Garijo
-  given-names: Daniel
-  orcid: 0000-0003-0454-7145
-- affiliation: Helmholtz-Zentrum Dresden-Rossendorf
-  family-names: Juckeland
-  given-names: Guido
-  orcid: 0000-0002-9935-4428
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
 cff-version: 1.2.0
-date-released: '2025-07-15'
-keywords:
-- research software
-- training
-- curation
-- best practices
-- rsqkit
-license:
-- cc-by-4.0
-message: If you use this dataset, please cite it using the metadata from this file.
-title: Aligning EVERSE Training resources from research clusters to RSQKit within
-  EVERSE
+title: >-
+  Training resources collected from research clusters within
+  EVERSE project
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
 type: dataset
+authors:
+  - affiliation: University of Manchester
+    family-names: Nenadic
+    given-names: Aleksandra
+    orcid: 'https://orcid.org/0000-0002-2269-3894'
+  - family-names: Sufi
+    given-names: Shoaib
+    orcid: 'https://orcid.org/0000-0001-6390-2616'
+  - family-names: Roiser
+    given-names: Stefan
+    orcid: 'https://orcid.org/0000-0002-5600-8592'
+  - affiliation: The University of Manchester
+    family-names: Goble
+    given-names: Carole
+    orcid: 'https://orcid.org/0000-0003-1219-2137'
+  - affiliation: OpenAIRE Non-Profit Civil Partnership
+    family-names: Stavropoulos
+    given-names: Tassos
+    orcid: 'https://orcid.org/0009-0008-5715-228X'
+  - affiliation: CERN
+    family-names: Stewart
+    given-names: Graeme Andrew
+    orcid: 'https://orcid.org/0000-0003-0182-7088'
+  - affiliation: University of Geneva
+    family-names: Rioja
+    given-names: Kenneth
+    orcid: 'https://orcid.org/0000-0002-5177-0019'
+  - family-names: Bouhraoua
+    given-names: Kamel Eddine Adel
+    orcid: 'https://orcid.org/0000-0001-9531-6339'
+  - affiliation: >-
+      Institute of Biomembranes, Bioenergetics and Molecular
+      Biotechnologies
+    family-names: Quaglia
+    given-names: Federica
+    orcid: 'https://orcid.org/0000-0002-0341-4888'
+  - affiliation: LifeWatch ERIC
+    family-names: Parisi
+    given-names: Eleonora
+  - affiliation: Carol I National Defence University
+    family-names: Anton
+    given-names: Mihail
+    orcid: 'https://orcid.org/0000-0002-1733-0693'
+  - affiliation: Helmholtz-Zentrum Dresden-Rossendorf
+    family-names: Ghosh
+    given-names: Srobona
+  - affiliation: Universidad Politécnica de Madrid
+    family-names: Garijo
+    given-names: Daniel
+    orcid: 'https://orcid.org/0000-0003-0454-7145'
+  - affiliation: Helmholtz-Zentrum Dresden-Rossendorf
+    family-names: Juckeland
+    given-names: Guido
+    orcid: 'https://orcid.org/0000-0002-9935-4428'
+repository-code: 'https://github.com/EVERSE-ResearchSoftware'
+url: 'https://github.com/EVERSE-ResearchSoftware'
+abstract: >-
+  This dataset is a curated set of training resources
+  collected in collaborative workshops with different
+  research communities within EVERSE project and aligned
+  with best practices for research software.
+keywords:
+  - research software
+  - training
+  - curation
+  - best practices
+  - rsqkit
+  - research software quality
+license: CC-BY-4.0
+date-released: '2025-07-15'
