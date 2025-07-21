@@ -1,0 +1,661 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Intermediate Research Software Development (Python)",
+    "url": "https://carpentries-incubator.github.io/python-intermediate-development/",
+    "description": "A core set of established, intermediate-level software development skills and best practices for working as part of a team in a research environment using Python as an example programming language.",
+    "keywords": "programming language, python, intermediate, software engineering, testing, debugging, version control, continuous integration, packaging code, releasing code, integrated development environment, IDE, virtual environment, git, github, good practices, action, CI/CD, automation, reproducible environment"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Alan Turing Institute - Research Software Engineering with Python",
+    "url": "https://alan-turing-institute.github.io/rse-course/html/index.html",
+    "description": "In this course, you will move beyond programming, to learn how to construct reliable, readable, efficient research software in a collaborative environment. The emphasis is on practical techniques, tips, and technologies to effectively build and maintain complex code. This is a relatively short course (8-10 half-day modules) which is intensive and involves hands-on exercises.",
+    "keywords": "research software engineering, programming language, python, collaborative environment"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "“Good\nEnough Practices in Scientific Computing” course",
+    "url": "https://carpentries-lab.github.io/good-enough-practices/index.html",
+    "description": "This lesson is targeted at a broad audience of researchers who want to learn how to be more efficient and effective in their data analysis and computing, whatever their career stage.",
+    "keywords": "readable code"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Five recommendations for FAIR software, by the Netherlands eScience Center and DANS",
+    "url": "https://fair-software.eu/",
+    "description": "Five recommendations for FAIR software, by the Netherlands eScience Center and DANS",
+    "keywords": "fair, version control, license, registry"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "A self-assessment checklist for FAIR research software",
+    "url": "https://fairsoftwarechecklist.net/",
+    "description": "A self-assessment checklist for FAIR research software",
+    "keywords": "fair"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Open source definition, by the Open Source\nInitiative",
+    "url": "https://opensource.org/osd/"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "CodeRefinery:\nReproducible research - preparing code to be usable by you and others in\nthe future",
+    "url": "https://coderefinery.github.io/reproducible-research/",
+    "description": "In this lesson we will explore different methods and tools for better reproducibility in research software and data. We will demonstrate how version control, workflows, containers, and package managers can be used to record reproducible environments and computational steps for our future selves and others.",
+    "keywords": "readable code, organise software project, reproducible environment"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Top 10 FAIR Data & Software Things",
+    "url": "https://librarycarpentry.github.io/Top-10-FAIR/2018/12/01/research-software/",
+    "description": "Brief guides for different disciplines that can be used by the research community to understand how they can make their research (data and software) more FAIR",
+    "keywords": "fair"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "The FAIR Cookbook, online recipes for life scientists that help make and keep data FAIR",
+    "url": "https://faircookbook.elixir-europe.org/content/home.html",
+    "description": "An online, open and live resource for the Life Sciences with recipes that help you to make and keep data Findable, Accessible, Interoperable and Reusable; in one word FAIR.",
+    "keywords": "fair"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "10 easy things to make your research software FAIR",
+    "url": "https://librarycarpentry.org/Top-10-FAIR/files/poster_10things_FAIRsoftware.pdf",
+    "keywords": "fair"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Cookiecutter software project template to kickstart a modern best-practice\nPython project with FAIR metadata",
+    "url": "https://github.com/Materials-Data-Science-and-Informatics/fair-python-cookiecutter",
+    "description": "An opinionated cookiecutter template to kickstart a modern best-practice Python project with FAIR metadata.",
+    "keywords": "fair, metadata, python, programming language, codemeta, cff, reuse, citation"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Course: ResOps - Cloud-native Tools and Technology for Researchers",
+    "url": "https://tsi-ccdoc.readthedocs.io/en/master/ResOps/2020/Agenda-2020.html#introduction",
+    "description": "This course provides some background to cloud computing and practical experience in building, deploying and running applications in cloud platforms - OpenStack, Google, Amazon and Azure.",
+    "keywords": "reproducible environments, cloud, docker, kubernetes, version control, gitlab"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Introduction to the Command Line for Metagenomics",
+    "url": "https://carpentries-lab.github.io/metagenomics-shell/"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Introduction to R",
+    "url": "https://carpentries-lab.github.io/metagenomics-R/",
+    "keywords": "programming language, R, metagenomics"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Tutorial: Workflows - Combining Tools for Data Analysis",
+    "url": "https://www.ebi.ac.uk/training/online/courses/workflows-combining-tools-for-data-analysis/",
+    "keywords": "computational workflows, data analysis"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "ENSEMBL REST API course",
+    "url": "https://www.ebi.ac.uk/training/online/courses/ensembl-rest-api/"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "\"Ten Reproducible Research Things\" Tutorial",
+    "url": "https://guereslib.github.io/ten-reproducible-research-things/",
+    "description": "This self-paced tutorial outlines ten steps to make your research reproducible, beginning with data quality, documentation, management of sensitive data, through to the publication of datasets. The aim is to move towards reproducible research regardless of your current skills, and includes useful resources for beginners, intermediate and advanced learners.",
+    "keywords": "version control, documentation"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "The Turing\nWay’s “Guide for\nReproducible Research”, part of the The Turing Way: A handbook\nfor reproducible, ethical and collaborative research",
+    "url": "https://the-turing-way.netlify.app/reproducible-research/reproducible-research",
+    "description": "This guide covers topics related to skills, tools and best practices for research reproducibility.",
+    "keywords": "version control, git, licensing, reproducible environments, documentation, quality, testing, continuous integration, static code analysis"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "The Turing Way: A handbook for reproducible, ethical and collaborative research",
+    "url": "https://the-turing-way.netlify.app/index.html",
+    "description": "Duplicated with #19"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "“How Git Works” course on Pluralsight",
+    "url": "https://www.pluralsight.com/courses/how-git-works",
+    "description": "This course is for developers and system administrators who want to really understand Git. Whether you just started using Git, or you've been using it every day for months - this course will give you the knowledge you need to become a Git master.",
+    "keywords": "version, control, git, github"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Version Control with Git",
+    "url": "https://swcarpentry.github.io/git-novice/",
+    "keywords": "version, control, git, github"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Introduction to User Experience Design",
+    "url": "https://www.ebi.ac.uk/training/online/courses/user-experience-design/what-is-user-experience-design/"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "GPU Programming",
+    "url": "https://carpentries-incubator.github.io/lesson-gpu-programming/introduction.html"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Parallel Programming in Python",
+    "url": "https://carpentries-incubator.github.io/lesson-parallel-python/"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "GPU Programming: When, Why and How?",
+    "url": "https://enccs.github.io/gpu-programming/"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "CUDA training",
+    "url": "https://enccs.github.io/cuda/"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "OpenACC training",
+    "url": "https://enccs.github.io/openacc/"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Introduction to Julia",
+    "url": "https://enccs.github.io/julia-intro/",
+    "description": "This lesson covers the basics of Julia: its syntax, multiple-dispatch paradigm, package development and best practices",
+    "keywords": "programming language, julia"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Julia for high-performance scientific computing",
+    "url": "https://enccs.github.io/julia-for-hpc/",
+    "description": "This lesson goes through various approaches for writing performant and parallel code, including how to write fast serial code, how to write multithreaded and distributed code, how to run Julia on an HPC system, and how to port Julia code to GPUs.",
+    "keywords": "programming language, julia"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Julia for high-performance data analytics",
+    "url": "https://enccs.github.io/julia-for-hpda/",
+    "description": "This lesson starts with a discussion of working with data in Julia, how to use the DataFrames.jl package and how to visualise data. It then moves on to linear algebra approaches, followed by classical machine learning approaches as well as deep learning methods with an example of scientific ML. Finally, key aspects of regression, time series prediction and analysis is covered.",
+    "keywords": "programming language, julia"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Programming with Julia",
+    "url": "https://carpentries-incubator.github.io/julia-novice/",
+    "keywords": "programming language, julia, packaging, module"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Automation and Make",
+    "url": "https://swcarpentry.github.io/make-novice/02-makefiles.html"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "CMake hands-on workshop",
+    "url": "https://enccs.github.io/cmake-workshop/",
+    "description": "This course is for students, researchers, engineers, and programmers that have heard of CMake and want to learn how to use it effectively with projects they are working on. This course assumes no previous experience with CMake. You will have to be familiar with the tools commonly used to build software in your compiled language of choice: C++, C, Fortran.",
+    "keywords": "programming language, cmake, c, c++, testing"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Version Control with Git",
+    "url": "https://swcarpentry.github.io/git-novice/",
+    "description": "Version control is the lab notebook of the digital world: it’s what professionals use to keep track of what they’ve done and to collaborate with other people. Every large software development project relies on it, and most programmers use it for their small jobs as well. And it isn’t just for software: books, papers, small data sets, and anything that changes over time or needs to be shared can and should be stored in a version control system.",
+    "keywords": "version, control, git, github, licensing"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Software Carpentry: Git Novice lesson",
+    "url": "https://swcarpentry.github.io/git-novice",
+    "description": "Duplicated with #35",
+    "keywords": "version, control, git, github, licensing"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "CodeRefinery: Collaborative distributed version control",
+    "url": "https://coderefinery.github.io/git-collaborative/",
+    "description": "We have learned how to work with a Git repository used by a single person. What about sharing and collaborating?",
+    "keywords": "version, control, git, github"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "CodeRefinery: Introduction to version control",
+    "url": "https://coderefinery.github.io/git-intro/",
+    "description": "Introduction to version control with Git - Why we want to track versions and how to go back in time to a working version",
+    "keywords": "version, control, git, github"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Continuous Integration / Continuous Development (CI/CD)",
+    "url": "https://hsf-training.github.io/hsf-training-cicd/",
+    "description": "GitLab is a git platform used for code hosting and collaboration. It can be used to automatically run checks and other code or workflows on GitLab’s servers. We’ll learn how to use this to make our code robust to errors, preserved, and reproducible.",
+    "keywords": "gitlab, collaboration, workflow, reproducibility, CI/CD"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Python Testing and Continuous Integration",
+    "url": "https://carpentries-incubator.github.io/python-testing/",
+    "description": "In this lesson we use a Python library called pytest. Basic understanding of Python variables and functions are a necessary prerequisite. Some previous experience with the shell is expected, but isn’t mandatory.",
+    "keywords": "python, pytest, testing, automation, continuous integration, CI/CD"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Workflows with Python and Git",
+    "url": "https://carpentries-incubator.github.io/swc-ext-python/",
+    "keywords": "programming language, python, version control"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Introduction to Cloud Computing for Genomics",
+    "url": "https://datacarpentry.org/cloud-genomics/index.html"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Software Carpentry: Introduction\nto Workflows with Common Workflow Language",
+    "url": "https://carpentries-incubator.github.io/cwl-novice-tutorial/"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Software Carpentry: Programming with Python",
+    "url": "https://swcarpentry.github.io/python-novice-inflammation/index.html",
+    "description": "The best way to learn how to program is to do something useful, so this introduction to Python is built around a common scientific task: data analysis.",
+    "keywords": "programming language, python"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Software Carpentry: Plotting and\nProgramming in Python",
+    "url": "https://swcarpentry.github.io/python-novice-gapminder/index.html",
+    "keywords": "programming language, python"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Level Up your Python",
+    "url": "https://henryiii.github.io/level-up-your-python/notebooks/0%20Intro.html",
+    "description": "A course in intermediate Python for a beginner ready to move up. Binder version and Live WebAssembly version available too!",
+    "keywords": "programming language, python"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Library Carpentry: Python Intro for Libraries",
+    "url": "https://librarycarpentry.org/lc-python-intro/",
+    "description": "This lesson is an introduction to programming in Python for library and information workers with little or no previous programming experience. It uses examples that are relevant to a range of library use cases, and is designed as a prerequisite for other Python lessons that will be developed in the future (e.g., web scraping, APIs). The lesson uses the JupyterLab computing environment and Python 3.",
+    "keywords": "programming language, python"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Building Better Scientific Software in Python",
+    "url": "https://python-tutorial.dev/201/",
+    "description": "The goal of this tutorial is to expose researchers to several best practices in scientific software engineering that may otherwise take several years to become acquainted with. Though the implementation of these lessons is Python-specific, the essential ideas can be exported to other languages or platforms.",
+    "keywords": "programming language, python, packaging, testing, documentation, logging, performance"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Software Carpentry: R for\nReproducible Scientific Analysis",
+    "url": "https://swcarpentry.github.io/r-novice-gapminder/",
+    "description": "The goal of this lesson is to teach novice programmers to write modular code and best practices for using R for data analysis",
+    "keywords": "programming language, R, reproducibility"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Introduction to R for Metagenomics",
+    "url": "https://carpentries-lab.github.io/metagenomics-R/",
+    "description": "Duplicated with #15",
+    "keywords": "programming language, R, metagenomics"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Software Carpentry: Programming with R",
+    "url": "https://swcarpentry.github.io/r-novice-inflammation/",
+    "description": "The best way to learn how to program is to do something useful, so this introduction to R is built around a common scientific task: data analysis. Our real goal isn’t to teach you R, but to teach you the basic concepts that all programming depends on",
+    "keywords": "programming language, R"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Getting Used to R, RStudio, and R Markdown",
+    "url": "https://rbasics.netlify.app/",
+    "description": "This material  was written to give people who are new to R, RStudio, and R Markdown the tools they need to begin making their own research reproducible",
+    "keywords": "programming language, R"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Modern Dive into R and the Tidyverse",
+    "url": "https://moderndive.netlify.app/",
+    "keywords": "programming language, R"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Software Carpentry: Programming\nwith MATLAB",
+    "url": "https://swcarpentry.github.io/matlab-novice-inflammation/",
+    "description": "The best way to learn how to program is to do something useful, so this introduction to MATLAB is built around a common scientific task: data analysis. Our real goal isn’t to teach you MATLAB, but to teach you the basic concepts that all programming depends on.",
+    "keywords": "programming language, MATLAB"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Introduction to the Internet of Things",
+    "url": "https://carpentries-incubator.github.io/IoT_arduino_nano/"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Automated Testing - Preventing Yourself and others from Breaking your Functioning Code",
+    "url": "https://coderefinery.github.io/testing/",
+    "description": "This lesson will talk about the places it’s useful for research code, and how easy it can be. We will discuss why testing often needs to be part of the software development cycle and how such a cycle can be implemented. We will see how automated testing works and practice designing and writing tests.",
+    "keywords": "testing, continuous integration, automation, python"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "How to Document your Research Software",
+    "url": "https://coderefinery.github.io/documentation/",
+    "description": "This lesson discusses different solutions for implementing and deploying code documentation.",
+    "keywords": "documentation, readme, readthedocs, github pages"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "CodeRefinery: Software Citation",
+    "url": "https://coderefinery.github.io/social-coding/software-citation/",
+    "keywords": "citation, publishing, releasing, fair"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "CodeRefinery: Software Licensing",
+    "url": "https://coderefinery.github.io/social-coding/software-licensing/",
+    "description": "A course on software licensing",
+    "keywords": "license"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "SQL for Humanities",
+    "url": "https://carpentries-incubator.github.io/sql-humanities-lesson/"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "SQL for Business",
+    "url": "https://carpentries-incubator.github.io/sql-business/"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Software Carpentry: Database and\nSQL",
+    "url": "https://swcarpentry.github.io/sql-novice-survey/"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "CodeRefinery: Jupyter Notebooks - A tool to write\nand share executable notebooks and data visualization",
+    "url": "https://coderefinery.github.io/jupyter/"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Python Packaging",
+    "url": "https://carpentries-incubator.github.io/python_packaging/",
+    "description": "This lesson teaches how to create and publish packages in Python",
+    "keywords": "package, packaging, release, python"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Managing Academic Software Development",
+    "url": "https://southampton-rsg.github.io/swc-project-novice/",
+    "description": "This workshop teaches the basics of managing project development and release, using the project management tools on the repository hosting site GitHub (and is applicable to repositories hosted on GitLab).",
+    "keywords": "release, git, github, gitlab, identifiers, version"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Software Carpentry: Managing\nResearch Software Projects",
+    "url": "https://swcarpentry.github.io/managing-research-software-projects/",
+    "description": "Introduction to the basics of software project management with a particular focus on the sorts of projects commonly found in research settings. Participants should have previously worked on programs containing thousands or tens of thousands of lines of code, and be regular users of basic tools like the Unix shell and a version control system. Building on that foundation, this course will discuss:",
+    "keywords": "license, version control, continous integration, robust, code review, testing"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Software Carpentry: Unix Shell",
+    "url": "https://swcarpentry.github.io/shell-novice/index.html"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Reproducible\nComputational Environments using Containers: Introduction to Singularity",
+    "url": "https://carpentries-incubator.github.io/singularity-introduction/",
+    "description": "This lesson provides an introduction to using the Singularity container platform. Singularity is particularly suited to running containers on infrastructure where users don’t have administrative privileges, for example shared infrastructure such as High Performance Computing (HPC) clusters.",
+    "keywords": "container, reproducible environment, reproducibility, singularity, HPC"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Reproducible\nComputational Environments Using Containers: Introduction to Docker",
+    "url": "https://carpentries-incubator.github.io/docker-introduction/",
+    "description": "This material aims to introduce the use of Docker containers with the goal of using them to effect reproducible computational environments. Such environments are useful for ensuring reproducible research outputs, for example.",
+    "keywords": "docker, container, reproducible environment, reproducibility, singularity"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Introduction\nto Docker and Podman",
+    "url": "https://hsf-training.github.io/hsf-training-docker/index.html",
+    "description": "An introduction to using Docker and Podman as software development tools.",
+    "keywords": "docker, container, reproducible environment, podman, reproducibility"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Welcome to Python Packages",
+    "url": "https://py-pkgs.org/welcome",
+    "description": "Python packages are a core element of the Python programming language and are how you create organized, reusable, and shareable code in Python. Python Packages is an open source book that describes modern and efficient workflows for creating Python packages.",
+    "keywords": "programming language, python, packaging, package, release"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Tools and Practices for FAIR Research Software",
+    "url": "https://carpentries-incubator.github.io/fair-research-software/",
+    "description": "This short course is teaching tools and practices for producing and sharing quality, sustainable and FAIR (Findable, Accessible, Interoperable and Reusable) research software to support open and reproducible research.",
+    "keywords": "FAIR, documentation, reproducible environment, readable code, documentation"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Modern Scientific C++",
+    "url": "https://github.com/chavid/ModernScientificCpp",
+    "description": "This training material addresses modern scientific computing in C++, for people who already have some experience in legacy C++ programming (before C++ 11)",
+    "keywords": "programming language, c++"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Cpp17 Initiation for Pythonists",
+    "url": "https://gitlab.in2p3.fr/informatique-des-deux-infinis/pheniics/cpp17-initiation-for-pythonists"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Python Traps and Pitfalls",
+    "url": "https://gitlab.in2p3.fr/informatique-des-deux-infinis/pheniics/python-traps",
+    "description": "A closer look at the basic mechanisms of the Python language, beyond what can be guessed by blindly copying and pasting examples, in order to avoid the most common traps and pitfalls",
+    "keywords": "programming language, python"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Introduction to Machine Learning",
+    "url": "https://gitlab.in2p3.fr/informatique-des-deux-infinis/pheniics/machinelearning"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Introduction to Deep Learning",
+    "url": "https://gitlab.in2p3.fr/informatique-des-deux-infinis/pheniics/deeplearning"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Make your code more efficient",
+    "url": "https://informatique-des-deux-infinis.pages.in2p3.fr/pheniics/make-your-code-more-efficient/",
+    "description": "Material for a two-mornings performance optimization training",
+    "keywords": "performance, benchmarking, profiling, optimization"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Make your code more robust",
+    "url": "https://gitlab.in2p3.fr/informatique-des-deux-infinis/pheniics/robust-programming",
+    "description": "Tools and methodologies to write code that is easier to understand and maintain.",
+    "keywords": "readable code, testing, documentation, continuous integration"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Web Interfaces Development in a Nutshell",
+    "url": "https://gitlab.in2p3.fr/informatique-des-deux-infinis/pheniics/web-interfaces-development-in-a-nutshell"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Git Survival Guide",
+    "url": "https://gitlab.in2p3.fr/informatique-des-deux-infinis/pheniics/git-survival-guide",
+    "description": "This guide offers a curated collection of exercises aimed at helping you learn and practice Git commands and workflows effectively.",
+    "keywords": "version control, git, gitlab"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "GitLab and GitLab CI/CD",
+    "url": "https://gitlab.in2p3.fr/informatique-des-deux-infinis/pheniics/gitlab-and-gitlab-ci-cd/-/tree/main?ref_type=heads",
+    "description": "A course designed to provide you with a comprehensive understanding of GitLab and GitLab CI/CD",
+    "keywords": "task automation, gitlab, CI/CD, continuous integration"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Foundational HPC Skills (DIRAC)",
+    "url": "https://dirac.ac.uk/foundation-hpc-skills-course/",
+    "description": "A basic introduction to the principles of HPC and the tools needed to work on an HPC system. The training will help you to develop the skills required to meet your research needs and enable you to utilise DiRAC’s HPC systems effectively. The course focuses on core skills, from basic connection to a system, to laying the foundation for developing robust, high-quality code. We assume familiarity with desktop computers, but no prior programming, Linux or HPC experience is required.",
+    "keywords": "version control, git, testing, documentation, HPC"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "CodeRefinery - training and e-Infrastructure for research software development",
+    "url": "https://coderefinery.org/"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Software Carpentry",
+    "url": "https://software-carpentry.org/"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Data Carpentry",
+    "url": "https://datacarpentry.org/"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Library Carpentry",
+    "url": "https://librarycarpentry.org/"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "HPC Carpentry",
+    "url": "https://hpc-carpentry.org/"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Intersect Research Software\nEngineering Training",
+    "url": "https://intersect-training.org/curriculum/"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "The Missing\nSemester of Your CS Education",
+    "url": "https://missing.csail.mit.edu/"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Turing Way Handbook: Guide for Reproducible Research",
+    "url": "https://the-turing-way.netlify.app/reproducible-research/reproducible-research",
+    "description": "duplicated with #19!!!"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": "Green Software Practitioner",
+    "url": "https://learn.greensoftware.foundation/introduction",
+    "description": "Introduction to green software, a carbon-efficient software, meaning it emits the least carbon possible. Only three activities reduce the carbon emissions of software; energy efficiency, carbon awareness, and hardware efficiency. This training will explain all of these concepts, how to apply them to your processes and how to measure them, as well as some of the international guidelines and organizations that guide and monitor this space.",
+    "about": "sustainability, environment"
+  }
+]
