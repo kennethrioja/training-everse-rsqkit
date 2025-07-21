@@ -36,6 +36,22 @@ Collection of [projects and working groups](https://github.com/EVERSE-ResearchSo
 
 Collection of [keywords](https://github.com/EVERSE-ResearchSoftware/training/blob/main/keywords.csv) used to describe and curate various training materials to facilitate searching and tagging in various catalogues.
 
+## Workflow
+
+`.github/workflows/update_json.yaml` allows to run (every day at 1:00AM or when a push to the main branch is done) `src/download_csv.py` which downloads the sheets of a given spreadsheet under `/csv` then `src/csv_to_json.py` takes the csvs in `/csv` and convert them as json and store them in `/json`. The workflow then add, commits and push the changes to main.
+
+Configuration file is `src/config.yaml`:
+
+- `id`: spreadsheet identifier
+- `spreadsheet`: list of objects {name, gid, skip, schemaType}, each of them representing a sheet
+- `spreadsheet.name`: name given to the csv file when getting fetched by `download_csv.py`
+- `spreadsheet.gid`: sheet identifier (Google ID)
+- `spreadsheet.skip`: when set to `True`, the `download_csv.py` script will skip the download the `gid` sheet (mainly done for `spreadsheet.name == "keywords"`)
+- `spreadsheet.schemaType`: following [schema.org](https://schema.org/), we gave the appropriate `type` to the kind of materials
+- `mapping`: list of objects {tess, schema} which acts as a dictionnary, `mapping.tess` is the field in TeSS corresponding to `mapping.schema` in schema.org, they are repsectively key-pair values.
+- `mapping.tess`: metadata field known by TeSS
+- `mapping.schema`: metadata field known by schema.org
+
 ## Licence
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
