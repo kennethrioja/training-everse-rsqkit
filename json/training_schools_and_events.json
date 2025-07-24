@@ -3,59 +3,280 @@
     "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "ASTERICS Programming School",
-    "url": "https://github.com/Asterics2020-Obelics/School2019",
+    "url": "Loading...",
     "description": "Summer school for advanced software programming for astrophysics and astroparticle physics"
   },
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "ESCAPE Data Science School",
-    "url": "https://escape2020.github.io/school2021/"
+    "url": "Loading..."
   },
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Gray Scott School\n(Heterogeneous Hardware Programming)",
-    "url": "https://cc-fr.eu/gray-scott-school-2025/",
+    "url": "Loading...",
     "description": "The school will cover the optimisation of computations on different types of hardware (CPU, GPU), presenting their respective characteristics, architectures and bottlenecks."
   },
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "PUMPS+AI Summer School",
-    "url": "https://pumps.bsc.es/2024/about-pumps-ai"
+    "url": "Loading..."
   },
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "BSC Training Course: introduction\nto CUDA Programming",
-    "url": "https://events.prace-ri.eu/event/1534/",
+    "url": "Loading...",
     "description": "The aim of this course is to provide students with knowledge and hands-on experience in developing applications software for processors with massively parallel computing resources. In general, we refer to a processor as massively parallel if it has the ability to complete more than 64 arithmetic operations per clock cycle"
   },
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "CERN  Schools on Computing",
+    "url": "Loading...",
     "description": "The CERN School of Computing (CSC) organises a series of international schools, covering various aspects of scientific computing for high-energy physics and other data-intensive sciences."
   },
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Efficient Scientific Computing School (ESC)",
-    "url": "https://esc.infn.it/",
+    "url": "Loading...",
     "description": "Architectures, tools and methodologies for developing efficient large scale scientific computing applications"
   },
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "LifeWatch ERIC Summer Schools",
-    "url": "https://training.lifewatch.eu/biodiversity-ecampus/resources/?category=14"
+    "url": "Loading..."
   },
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "BSC Training Course: Introduction to OpenACC",
-    "url": "https://www.bsc.es/education/training/bsc-training/bsc-training-course-introduction-openacc",
+    "url": "Loading...",
     "description": "The target audiences of the course are students who want to develop exciting applications for these processors, as well as those who want to develop programming tools and future implementations for these processors."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "url": "Loading..."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "url": "Loading..."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "url": "Loading..."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "url": "Loading..."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "url": "Loading..."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "url": "Loading..."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "url": "Loading..."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "url": "Loading..."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "url": "Loading..."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "url": "Loading..."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "url": "Loading..."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "url": "Loading..."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "url": "Loading..."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "url": "Loading..."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "url": "Loading..."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "url": "Loading..."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "url": "Loading..."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "url": "Loading..."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "url": "Loading..."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "url": "Loading..."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "url": "Loading..."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "url": "Loading..."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "url": "Loading..."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "url": "Loading..."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "url": "Loading..."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "url": "Loading..."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "url": "Loading..."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "url": "Loading..."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "url": "Loading..."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "url": "Loading..."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "url": "Loading..."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "url": "Loading..."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "url": "Loading..."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "url": "Loading..."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "url": "Loading..."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "url": "Loading..."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "url": "Loading..."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "url": "Loading..."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "url": "Loading..."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "url": "Loading..."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "url": "Loading..."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "url": "Loading..."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "url": "Loading..."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "url": "Loading..."
   }
 ]
