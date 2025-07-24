@@ -1,6 +1,7 @@
 import csv
 import yaml
 import json
+import re
 from pathlib import Path
 
 class bcolors:
@@ -13,6 +14,10 @@ class bcolors:
     ENDC = '\033[0m'
     BOLD = '\033[1m'
     UNDERLINE = '\033[4m'
+
+def is_valid_url(url):
+    pattern = r'^(http|https):\/\/([\w.-]+)(\.[\w.-]+)+([\/\w\.-]*)*\/?$'
+    return bool(re.match(pattern, url))
 
 def main():
     input_dir = Path('csv')
@@ -55,7 +60,10 @@ def main():
                     value = row.get(src_key, '').strip()
                     if value:
                         resource[dst_key] = value
+                        if dst_key == "URL" and not is_valid_url(value):
+                            print(f"{bcolors.WARNING}[URL {resource.__len__}/{len(reader)}]{bcolors.ENDC} URL is wrong for {resource.get("name")}")
                 materials.append(resource)
+                print(f"{bcolors.OKGREEN}[SUCCESS {resource.__len__}/{len(reader)}]{bcolors.ENDC} Added {resource.get("name")}")
 
         output_path = output_dir / f'{csv_file.stem}.json'
         with open(output_path, 'w', encoding='utf-8') as f:
