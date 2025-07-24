@@ -3,7 +3,7 @@ name: Update JSON
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "main", "github-action-test"]
   schedule:
     - cron: '0 1 * * *'
 
