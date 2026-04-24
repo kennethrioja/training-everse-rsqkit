@@ -1,37 +1,12 @@
 [
   {
-    "@context": "https://schema.org",
+    "@context": "http://schema.org",
+    "@id": "https://heptraining.cern.ch/materials/xaod-usage",
     "@type": "LearningResource",
-    "name": "Intermediate Research Software Development (Python)",
-    "url": "https://carpentries-incubator.github.io/python-intermediate-development/",
-    "description": "A core set of established, intermediate-level software development skills and best practices for working as part of a team in a research environment using Python as an example programming language.",
-    "about": "research software development",
-    "keywords": "programming language, python, intermediate, software engineering, testing, debugging, version control, continuous integration, packaging code, releasing code, integrated development environment, IDE, virtual environment, git, github, good practices, action, CI/CD, automation, reproducible environment",
-    "license": "CC-BY-4.0",
-    "creativeWorkStatus": "Published",
-    "identifier": "https://doi.org/10.5281/zenodo.6532056",
-    "version": "beta-Nov2024",
-    "author": "Aleksandra Nenadic, Steve Crouch, Thomas Kile, Raniere Silv, François Michonnea, Maxim Belkin, James Graham, Greg Wilson, Matthew, Toby Hodges, Zhian N. Kamvar, Sven van der Burg, Abby Cabunoc Mayes, JacalynLair, Sarah Stevens, Katrin Leinweber, Erin Becker, João Rodrigues, Douglas Lowe, Sam Mangham, Rayna M Harris, Matthew Blutea, Renato Alv, Sander van Rijn, Rémi Emon, David Mawdsley, Piotr Banaszkiewi, Jemma Stachelek, Giulia Crocion, William L. Close",
-    "contributor": "anenadic, steve-crouch, thomaskileyukaea, bielsnohr, jag1g13, tobyhodges, svenvanderburg, JacalynLaird, sstevens2, douglowe, smangham, knarrff, sjvrijn, gcroci2, hsaunders1904, tomneep, unode, danielskatz, amangoel185, wk9874, jreeve-nv, gkmurphy, sverchkov, shartleybham-acuk, gadgil48, olexandr-konovalov, martinjrobins, kzscisoft, k-collie, guyer",
-    "competencyRequired": "Git, Python, Shell",
-    "educationalLevel": "beginner",
-    "teaches": "Document and structure your software, collaborate to develop, prepare software for others to use.",
-    "provider": "UK's Software Sustainability Institute",
-    
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "LearningResource",
-    "name": "Alan Turing Institute - Research Software Engineering with Python",
-    "url": "https://alan-turing-institute.github.io/rse-course/html/index.html",
-    "description": "In this course, you will move beyond programming, to learn how to construct reliable, readable, efficient research software in a collaborative environment. The emphasis is on practical techniques, tips, and technologies to effectively build and maintain complex code. This is a relatively short course (8-10 half-day modules) which is intensive and involves hands-on exercises.",
-    "about": "research software development",
-    "keywords": "research software engineering, programming language, python, collaborative environment",
-    "creativeWorkStatus": "Published"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "LearningResource",
+    "dct:conformsTo": {
+      "@type": "CreativeWork",
+      "@id": "https://bioschemas.org/profiles/TrainingMaterial/1.0-RELEASE"
+    },
     "name": "Xaod Usage",
     "learningResourceType": [
       "Github Repository"
