@@ -1,0 +1,32 @@
+ {
+  "@context": "http://schema.org",
+  "@id": "https://explora.alliancecan.ca/events/beyond-the-library-how-mycreds-is-connecting-credentials-to-orcid-profiles-across-canada-au-dela-des-bibliotheques-comment-mycreds-relie-les-attestations-aux-profils-orcid-a-l-echelle-du-canada",
+  "@type": "Event",
+  "dct:conformsTo": {
+    "@type": "CreativeWork",
+    "@id": "https://bioschemas.org/profiles/Event/0.2-DRAFT-2019_06_14"
+  },
+  "name": "Beyond the Library: How MyCreds® Is Connecting Credentials to ORCID Profiles Across Canada / Au-delà des bibliothèques : comment MyCreds® relie les attestations aux profils ORCID à l'échelle du Canada",
+  "url": "https://us06web.zoom.us/meeting/register/ssM22wNQTref4lq2dmCZlQ",
+  "description": "Would you like to discover how ORCID is creating impact beyond libraries? \r\n\r\nThe ORCID-CA team is pleased to invite you to our next Community Call on June 30 at 1:00 PM (EST), where we explore ORCID's growing role in Canada's broader post-secondary ecosystem. \r\n\r\nIn this third ORCID-CA Community Call of the year, we will welcome Jodi Tavares, Executive Director of the Association of Registrars of the Universities and Colleges of Canada (ARUCC)’s MyCreds® | MesCertif, to discuss a key example of national, cross-institutional collaboration: how MyCreds® enables credential holders to add their credentials directly to their ORCID record. \r\n\r\nMyCreds® is Canada’s national digital credential network. Owned by the sector, bilingual, and designed to support secure credential sharing, it enables credential holders to exchange their qualifications safely both within Canada and internationally. \r\n\r\nBut what does ORCID adoption look like outside the library sector? Join us to learn more! \r\n\r\nThis is a great opportunity to ask questions, gain inspiration for your own context, and connect with the ORCID-CA community. \r\n\r\nThis call will include real-time interpretation through Wordly, allowing participants to follow the presentation in the language of their choice. \r\n\r\nWe look forward to seeing you there! \r\n\r\n------------------------------ \r\n\r\nSouhaitez-vous découvrir comment ORCID crée un impact au-delà des bibliothèques ? \r\n\r\nL'équipe ORCID-CA organise son prochain appel communautaire, le 30 juin à 13 h (HNE), où nous explorerons le rôle grandissant d'ORCID dans l'écosystème postsecondaire canadien. \r\n\r\nDans cette troisième édition des appels communautaires ORCID-CA de cette année, nous accueillerons Jodi Tavares, directrice générale de MyCreds® | MesCertif de l’Association des registraires des universités et collèges du Canada (ARUCC), pour aborder un exemple clé de collaboration interinstitutionnelle à l'échelle nationale : comment MyCreds® permet aux titulaires d'attestations de verser leurs qualifications directement dans leur profil ORCID.  \r\n\r\nMyCreds® est le réseau national canadien d'attestations numériques, détenu par le secteur, bilingue, et conçu pour permettre aux titulaires d'attestations d'échanger leurs qualifications de façon sécurisée, au Canada et à l'international.  \r\n\r\nMais à quoi ressemble concrètement l’adoption d’ORCID hors du secteur des bibliothèques ? Rejoignez-nous pour en apprendre plus ! \r\n\r\nC'est l'occasion de poser vos questions, de trouver de l'inspiration pour votre propre contexte et de vous connecter avec la communauté ORCID-CA. \r\n\r\nCet appel sera accompagné d'une interprétation en temps réel grâce à Wordly, afin que vous puissiez suivre la présentation dans la langue de votre choix. \r\n\r\nAu plaisir de vous y voir !",
+  "keywords": [
+    "PIDs",
+    "ORCID"
+  ],
+  "startDate": "2026-06-30 17:00:00 UTC",
+  "endDate": "2026-06-30 18:00:00 UTC",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "",
+      "addressLocality": "",
+      "addressRegion": "",
+      "addressCountry": "Canada",
+      "postalCode": ""
+    }
+  },
+  "event_types": [
+    "meetings_and_conferences"
+  ]
+}
