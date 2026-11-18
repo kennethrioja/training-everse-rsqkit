@@ -3,7 +3,7 @@ name: Update JSON
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "main", "test002" ]
   schedule:
     - cron: '0 1 1/14 * *'
 
@@ -30,6 +30,10 @@ jobs:
     - name: Download csv
       run: |
         python src/download_csv.py
+
+    - name: Update keywords.csv
+      run: |
+        python src/update_keywords.py
 
     - name: Convert to json
       run: |
